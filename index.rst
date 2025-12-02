@@ -1,13 +1,11 @@
 
 .. toctree::
-   :maxdepth: 5
-   :caption: KS0158 Keyestudio EASY Plug Starter Kit for Arduino 
+   :maxdepth: 3
+   :caption: keyestudio KS0158 Starter
 
-
-   KS0158.md
-   
-
-
+   README.md
+   docs/1. Product introduction/1. Product introduction
+   docs/2. Arduino/2.rst
 
 
 
